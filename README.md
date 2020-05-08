@@ -9,7 +9,7 @@ yarn install
 yarn start
 ```
 
-## Describe 説明
+## Description 説明
 VirtualDom.tsが仮想DOMの本体です。 
 index.tsで仮想DOMを呼びだしています。 <br>
 VirtualDom.ts is the file implemented virtual DOM. I call virtualDom in index.ts.
